@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/spd-test-task/static/css/main.685dea8f.chunk.css",
+    "main.js": "/spd-test-task/static/js/main.00c4652e.chunk.js",
+    "main.js.map": "/spd-test-task/static/js/main.00c4652e.chunk.js.map",
+    "runtime-main.js": "/spd-test-task/static/js/runtime-main.d1d28bf2.js",
+    "runtime-main.js.map": "/spd-test-task/static/js/runtime-main.d1d28bf2.js.map",
+    "static/js/2.ace4003a.chunk.js": "/spd-test-task/static/js/2.ace4003a.chunk.js",
+    "static/js/2.ace4003a.chunk.js.map": "/spd-test-task/static/js/2.ace4003a.chunk.js.map",
+    "index.html": "/spd-test-task/index.html",
+    "precache-manifest.a0565c871a988c6d9eeea4c32ed40b25.js": "/spd-test-task/precache-manifest.a0565c871a988c6d9eeea4c32ed40b25.js",
+    "service-worker.js": "/spd-test-task/service-worker.js",
+    "static/css/main.685dea8f.chunk.css.map": "/spd-test-task/static/css/main.685dea8f.chunk.css.map",
+    "static/js/2.ace4003a.chunk.js.LICENSE.txt": "/spd-test-task/static/js/2.ace4003a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1d28bf2.js",
+    "static/js/2.ace4003a.chunk.js",
+    "static/css/main.685dea8f.chunk.css",
+    "static/js/main.00c4652e.chunk.js"
+  ]
+}
